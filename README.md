@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @amroelkhider
+- 👀 I’m interested in C#,ASP.net Core , Azure ,JavaScript , and React 
+- 🌱 I love learning new things and upskill myself
